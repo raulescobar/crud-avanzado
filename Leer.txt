@@ -1,1 +1,3 @@
 Información sobre el manejo de versiones
+
+se realiza modificación de el ultimo commit, se espera que pueda subir correctamente
